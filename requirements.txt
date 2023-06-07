@@ -8,4 +8,6 @@ xgboost
 dill
 wheel
 nbformat
+requests
+bs4
 #-e .
